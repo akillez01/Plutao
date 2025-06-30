@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/', // Para domínio personalizado
+  base: '/Plutao/',
   plugins: [react()],
   server: {
     port: 3000,
